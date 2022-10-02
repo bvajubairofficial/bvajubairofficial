@@ -1,0 +1,1 @@
+[ { "version":"1.2", "aviso":"MVZJUBAIR", "massage":"INJECTOR EXPIRED UPDATE THE INJECTOR\n\nUPDATED INJECTOR AVAILABLE ON CHANNEL MVZ JUBAIR\n\nTHANK YOU GUYS", "okay":"UPDATE NOW", "link2":"", "login":"GO1K", "link":"https://youtube.com/channel/UC-2rExq5AlBbsGkymNfeaNA" } ]
